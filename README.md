@@ -77,15 +77,8 @@ Chatbot assistant for live support.
 📌 Impact:
 AgroVision combines cutting-edge web technologies with real-world agricultural intelligence to serve as a smart companion for modern farmers. It not only reduces guesswork but also promotes informed decision-making, environmental sustainability, and enhanced productivity in the agricultural sector.
 
-Let me know if you'd like to format this into a PDF portfolio page or tailor it for GitHub README, resume, or LinkedIn project section!
+![Uploading Screenshot 2025-03-20 112217.png…]()
 
-
-
-
-
-
-
-Do you like this personality
 
 
 
